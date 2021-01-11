@@ -1,1 +1,1 @@
-Legacy ETL base image
+Legacy ETL base image.
